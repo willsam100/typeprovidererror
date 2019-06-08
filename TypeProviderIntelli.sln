@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TypeProviderIntelli", "TypeProviderIntelli\TypeProviderIntelli.fsproj", "{BA27C8EC-2EBB-4500-884A-36C64DF68A01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA27C8EC-2EBB-4500-884A-36C64DF68A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA27C8EC-2EBB-4500-884A-36C64DF68A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA27C8EC-2EBB-4500-884A-36C64DF68A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA27C8EC-2EBB-4500-884A-36C64DF68A01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
